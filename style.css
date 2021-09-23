@@ -15,7 +15,7 @@ span{
     font-size: 6rem;
 }
 
-.container{
+#container{
     max-width: 550px;
     height: 100vh;
     border: 1px solid black;
@@ -26,7 +26,7 @@ span{
     padding: 25px 5px;
 }
 
-.degree{
+#degree{
     display: grid;
     grid-template-columns: auto auto;
     justify-content: center;
